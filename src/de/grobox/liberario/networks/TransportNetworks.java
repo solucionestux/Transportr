@@ -591,6 +591,20 @@ public interface TransportNetworks {
 					.setStatus(ALPHA)
 					.setGoodLineNames(true)
 					.build(),
+
+			// Costa Rica
+
+			new TransportNetworkBuilder()
+					.setId(NetworkId.CR)
+					.setName(R.string.np_name_costarica)
+					.setDescription(R.string.np_desc_costarica)
+					.setAgencies(R.string.np_desc_costarica_networks)
+					.setRegion(Region.COSTA_RICA)
+					.setLogo(R.drawable.network_costarica_logo)
+					.setStatus(ALPHA)
+					.setGoodLineNames(true)
+					.build(),
+
 	};
 
 }

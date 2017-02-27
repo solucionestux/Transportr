@@ -51,7 +51,8 @@ enum Region {
 	NEW_ZEALAND(R.string.np_region_nz, "\uD83C\uDDF3\uD83C\uDDFF"),
 	SPAIN(R.string.np_region_spain, "\uD83C\uDDEA\uD83C\uDDF8"),
 	BRAZIL(R.string.np_region_br, "\uD83C\uDDE7\uD83C\uDDF7"),
-	CANADA(R.string.np_region_canada, "\uD83C\uDDE8\uD83C\uDDE6");
+	CANADA(R.string.np_region_canada, "\uD83C\uDDE8\uD83C\uDDE6"),
+	COSTA_RICA(R.string.np_region_costarica, "\uD83C\uDDE8\uD83C\uDDF7");
 
 	private final @StringRes int name;
 	private final @Nullable String flag;

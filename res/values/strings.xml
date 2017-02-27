@@ -240,6 +240,11 @@ there are any).</string>
     <string name="np_desc_quebec">Deux-Montagnes, Laval, L\'Assomption, Outaouais, Sud-Ouest, Quebec, Haut-Saint-Laurent, Lanaudière, La Presqu\'Île, Laurentides, Montreal, Les Moulins, Vallée du Richelieu, Chambly-Richelieu-Carignan, Roussillon, Sorel-Varennes, Le Richelain, Sherbrooke, Sainte-Julie</string>
     <string name="np_desc_quebec_networks" translatable="false">AMT, STM, STL</string>
 
+    <string name="np_region_costarica">Costa Rica</string>
+    <string name="np_name_costarica">Costa Rica </string>
+    <string name="np_desc_costarica">Tren Urbano (INCOFER)</string>
+    <string name="np_desc_costarica_networks" translatable="false">INCOFER</string>
+
     <string name="np_region_denmark">Denmark</string>
     <string name="np_desc_dsb">Denmark, Copenhagen</string>
 
