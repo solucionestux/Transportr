@@ -553,6 +553,17 @@ public class TransportNetworks {
 				.setGoodLineNames(true)
 		);
 
+		// Costa Rica
+		region = region(R.string.np_region_costarica, "\uD83C\uDDE8\uD83C\uDDF7");
+
+		list.add(new TransportNetwork(context, NetworkId.CR)
+				.setName(getString(R.string.np_name_costarica))
+				.setDescription(getString(R.string.np_desc_costarica), getString(R.string.np_desc_costarica_networks))
+				.setRegion(region)
+				.setStatus(ALPHA)
+				.setGoodLineNames(true)
+		);
+
 		return list;
 	}
 
